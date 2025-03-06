@@ -1,2 +1,5 @@
 console.WriteLine("Name:Ali usman);
   Console.WriteLine("roll number:80");
+int a=123;
+int b=133;
+int result=a/b;
