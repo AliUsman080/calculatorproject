@@ -1,5 +1,22 @@
 console.WriteLine("Name:Ali usman);
-  Console.WriteLine("roll number:80");
+subtraction
+ multiplication
+Console.WriteLine("roll number:80");
+division
+int a=123;
+int b=133;
+int result=a/b;
+int a=124;
+int b=233;
+int result=a*b;
+multiplication
+Console.WriteLine("roll number:80");
+int a=1233;
+int b=5555;
+int result=a-b;
+subtraction
+Console.WriteLine("roll number:80");
 int a=10;
 int b=23;
 int result=a+b;
+addition
