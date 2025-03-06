@@ -20,3 +20,4 @@ int a=10;
 int b=23;
 int result=a+b;
 addition
+int result=a*b;
